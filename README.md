@@ -11,12 +11,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/gxjosue7">
-    <img src="https://img.shields.io/github/followers/gxjosue7?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gxjosue7&style=for-the-badge&color=7c3aed&label=Visitas" />
-  &nbsp;
   <a href="https://linkedin.com/in/jos%C3%A9-gomes-xavier-70b825338">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -32,29 +26,34 @@
 
 ## 👾 Sobre Mim
 
-<div align="center">
-
-<img src="https://github-readme-stats-five-phi-93.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=6d28d9&count_private=true&include_all_commits=true&hide=issues" />
-
-<br/><br/>
-
-🎓 &nbsp;**Instituto Federal Catarinense** &nbsp;·&nbsp; Campus Araquari &nbsp;·&nbsp; Sistemas de Informação &nbsp;·&nbsp; 3º Sem.
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=6d28d9&count_private=true&include_all_commits=true" />
 
 <br/>
 
-💡 &nbsp;Apaixonado por lógica, backend e sistemas &nbsp;·&nbsp; Cada projeto nasce de uma ideia real.
+&nbsp; 🎓 &nbsp;**Instituto Federal Catarinense**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus Araquari · Sistemas de Informação · 3º Sem.
 
 <br/>
 
-🌱 &nbsp;Evoluindo continuamente &nbsp;—&nbsp; *"A melhor versão de mim está sendo escrita agora."*
+&nbsp; 💡 &nbsp;Apaixonado por lógica, backend e sistemas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada projeto nasce de uma ideia real.
 
 <br/>
 
-🚀 &nbsp;Transformando aprendizado em soluções reais e projetos impactantes.
+&nbsp; 🔧 &nbsp;Desenvolvimento fullstack com foco em
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JavaScript, Python, HTML e CSS**.
 
 <br/>
 
-</div>
+&nbsp; 🌱 &nbsp;Evoluindo continuamente —
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"A melhor versão de mim está sendo escrita agora."*
+
+<br/>
+
+&nbsp; 🚀 &nbsp;Transformando aprendizado em
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soluções reais e projetos impactantes.
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -147,9 +146,9 @@
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats-five-phi-93.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats-five-phi-93.vercel.app/api/top-langs/?username=gxjosue7&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxjosue7&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
 
 <br/><br/>
 
