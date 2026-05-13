@@ -11,9 +11,16 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/gxjosue7">
+    <img src="https://img.shields.io/github/followers/gxjosue7?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gxjosue7&style=for-the-badge&color=7c3aed&label=Visitas" />
+  &nbsp;
   <a href="https://linkedin.com/in/jos%C3%A9-gomes-xavier-70b825338">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:gxjosue7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
