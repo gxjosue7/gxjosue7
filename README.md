@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%A1;IFC+Campus+Araquari+%E2%80%94+3%C2%BA+Semestre;Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Backend+%26+Banco+de+Dados;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%A1;IFC+Campus+Araquari+%E2%80%94+3%C2%BA+Semestre;Apaixonado+por+conhecimento;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
