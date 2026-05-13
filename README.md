@@ -110,7 +110,7 @@
 
 <p>Plataforma de logística rodoviária focada em <strong>segurança</strong>, <strong>credenciamento</strong> e <strong>confiança</strong><br/>entre motoristas autônomos e empresas embarcadoras.</p>
 
-<p><em>Iniciado no <strong>Startup Weekend 2025</strong> — evoluindo para produto real.</em></p>
+<p><em>Iniciado no <strong>Startup Weekend 2026</strong> — evoluindo para produto real.</em></p>
 
 <br/>
 
@@ -120,9 +120,9 @@
 
 | Fase | Descrição | Status |
 |:----:|-----------|:------:|
-| 1 | Frontend estático completo | 🔲 Em desenvolvimento |
-| 2 | Backend Node.js + banco de dados | 🔲 Planejado |
-| 3 | Integração frontend ↔ backend | 🔲 Planejado |
+| 1 | Frontend estático completo | 🔲 Concluído |
+| 2 | Backend Node.js + banco de dados | 🔲 Concluído |
+| 3 | Integração frontend ↔ backend | 🔲 Concluído |
 | 4 | Credenciamento real (APIs gov) | 🔲 Planejado |
 | 5 | Deploy — Vercel + Railway | 🔲 Planejado |
 
@@ -132,7 +132,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-f59e0b?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Startup%20Weekend-2025-7c3aed?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Startup%20We ekend-2026-7c3aed?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
