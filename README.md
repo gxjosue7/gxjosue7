@@ -47,7 +47,7 @@
 <br/>
 
 &nbsp; 🔧 &nbsp;Desenvolvimento fullstack com foco em
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PHP, MySQL, JavaScript e Python**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JavaScript, Python, HTML e CSS**.
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,php,mysql,git,github,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=4" />
 
 <br/><br/>
 
@@ -82,24 +82,10 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -114,34 +100,44 @@
 
 <br/>
 
-<!-- ★ Projeto Principal ★ -->
-
-<a href="https://github.com/gxjosue7/mycodelab-mural">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxjosue7&repo=mycodelab-mural&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&description_lines_count=3" />
+<a href="https://github.com/gxjosue7/sw2026">
+  <img src="https://img.shields.io/badge/★%20%20PROJETO%20EM%20DESTAQUE-sw2026%20%2F%20SafeWay-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
+
+<br/><br/>
+
+<h3>🛡️ SafeWay &nbsp;—&nbsp; Frete com Credibilidade</h3>
+
+<p>Plataforma de logística rodoviária focada em <strong>segurança</strong>, <strong>credenciamento</strong> e <strong>confiança</strong><br/>entre motoristas autônomos e empresas embarcadoras.</p>
+
+<p><em>Iniciado no <strong>Startup Weekend 2025</strong> — evoluindo para produto real.</em></p>
 
 <br/>
 
-> 🏆 &nbsp;**mycodelab-mural** &nbsp;·&nbsp; Sistema fullstack completo — autenticação, painel admin e controle de permissões. Desenvolvido do zero com **PHP, MySQL e CSS puro**.
+<img src="https://img.shields.io/badge/Problema-R%24%2012%20bi%2Fano%20em%20fraudes%20no%20frete%20brasileiro-dc2626?style=flat-square&labelColor=0d1117" />
+
+<br/><br/>
+
+| Fase | Descrição | Status |
+|:----:|-----------|:------:|
+| 1 | Frontend estático completo | 🔲 Em desenvolvimento |
+| 2 | Backend Node.js + banco de dados | 🔲 Planejado |
+| 3 | Integração frontend ↔ backend | 🔲 Planejado |
+| 4 | Credenciamento real (APIs gov) | 🔲 Planejado |
+| 5 | Deploy — Vercel + Railway | 🔲 Planejado |
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-f59e0b?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Startup%20Weekend-2025-7c3aed?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
 <a href="https://github.com/gxjosue7/sw2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxjosue7&repo=sw2026&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-&nbsp;
-<a href="https://github.com/gxjosue7/FACULDADE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxjosue7&repo=FACULDADE&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/gxjosue7/BDD_INDUSTRIA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxjosue7&repo=BDD_INDUSTRIA&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-&nbsp;
-<a href="https://github.com/gxjosue7/commit-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxjosue7&repo=commit-test&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+  <img src="https://img.shields.io/badge/Ver%20Repositório-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
