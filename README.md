@@ -26,34 +26,33 @@
 
 ## 👾 Sobre Mim
 
-<img align="right" width="420" src="https://github-readme-stats-five-phi-93.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=6d28d9&count_private=true&include_all_commits=true" />
+<div align="center">
+
+<img src="https://github-readme-stats-five-phi-93.vercel.app/api?username=gxjosue7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=6d28d9&count_private=true&include_all_commits=true&hide=issues" />
+
+<br/><br/>
+
+🎓 &nbsp;**Instituto Federal Catarinense** &nbsp;·&nbsp; Campus Araquari &nbsp;·&nbsp; Sistemas de Informação &nbsp;·&nbsp; 3º Sem.
 
 <br/>
 
-&nbsp; 🎓 &nbsp;**Instituto Federal Catarinense**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus Araquari · Sistemas de Informação · 3º Sem.
+💡 &nbsp;Apaixonado por lógica, backend e sistemas &nbsp;·&nbsp; Cada projeto nasce de uma ideia real.
 
 <br/>
 
-&nbsp; 💡 &nbsp;Apaixonado por lógica, backend e sistemas.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada projeto nasce de uma ideia real.
+🔧 &nbsp;Desenvolvimento fullstack com foco em &nbsp;**JavaScript, Python, HTML e CSS**.
 
 <br/>
 
-&nbsp; 🔧 &nbsp;Desenvolvimento fullstack com foco em
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JavaScript, Python, HTML e CSS**.
+🌱 &nbsp;Evoluindo continuamente &nbsp;—&nbsp; *"A melhor versão de mim está sendo escrita agora."*
 
 <br/>
 
-&nbsp; 🌱 &nbsp;Evoluindo continuamente —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"A melhor versão de mim está sendo escrita agora."*
+🚀 &nbsp;Transformando aprendizado em soluções reais e projetos impactantes.
 
 <br/>
 
-&nbsp; 🚀 &nbsp;Transformando aprendizado em
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soluções reais e projetos impactantes.
-
-<br clear="right"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
