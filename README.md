@@ -122,10 +122,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/gxjosue7/sw2026">
-  <img src="https://img.shields.io/badge/Ver%20Repositório-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-
 </div>
 
 <br/>
