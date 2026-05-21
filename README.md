@@ -119,13 +119,6 @@
 | 4 | Credenciamento real (APIs gov) | 🔲 Planejado |
 | 5 | Deploy — Vercel + Railway | 🔲 Planejado |
 
-<br/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-f59e0b?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Startup%20We ekend-2026-7c3aed?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
