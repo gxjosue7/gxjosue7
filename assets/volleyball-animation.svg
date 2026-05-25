@@ -1,0 +1,109 @@
+<svg viewBox="0 0 800 185" xmlns="http://www.w3.org/2000/svg" width="800" height="185">
+  <style>
+    @keyframes moveX {
+      0%   { transform: translateX(0px); }
+      75%  { transform: translateX(500px); }
+      100% { transform: translateX(500px); }
+    }
+    @keyframes moveY {
+      0%   { transform: translateY(0px); }
+      45%  { transform: translateY(-52px); }
+      75%  { transform: translateY(88px); }
+      100% { transform: translateY(88px); }
+    }
+    @keyframes ballFade {
+      0%, 70%  { opacity: 1; }
+      80%      { opacity: 0; }
+      96%      { opacity: 0; }
+      100%     { opacity: 1; }
+    }
+    @keyframes codeAppear {
+      0%, 70%  { opacity: 0; transform: translateY(8px); }
+      80%, 92% { opacity: 1; transform: translateY(0px); }
+      100%     { opacity: 0; transform: translateY(8px); }
+    }
+    @keyframes jumpPose {
+      0%, 100% { transform: translateY(0px); }
+      15%      { transform: translateY(-8px); }
+      35%      { transform: translateY(0px); }
+    }
+    .bx   { animation: moveX 3s ease-in-out infinite; }
+    .by   { animation: moveY 3s ease-in-out infinite; }
+    .ball { animation: ballFade 3s ease-in-out infinite; }
+    .player { animation: jumpPose 3s ease-in-out infinite; }
+    .c1   { animation: codeAppear 3s ease-in-out infinite 0s; }
+    .c2   { animation: codeAppear 3s ease-in-out infinite 0.15s; }
+    .c3   { animation: codeAppear 3s ease-in-out infinite 0.3s; }
+  </style>
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="185" fill="#0d1117" rx="10"/>
+
+  <!-- Ground -->
+  <line x1="30" y1="160" x2="770" y2="160" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- PLAYER — dynamic volleyball spike pose -->
+  <g class="player">
+    <!-- Head -->
+    <circle cx="118" cy="40" r="14" fill="none" stroke="#58a6ff" stroke-width="2.5" filter="url(#glow)"/>
+    <!-- Body — two segments for slight forward lean -->
+    <line x1="118" y1="54" x2="116" y2="90" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="116" y1="90" x2="112" y2="118" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Right arm — raised, with forearm angled toward ball -->
+    <line x1="117" y1="70" x2="150" y2="47" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="150" y1="47" x2="159" y2="57" stroke="#58a6ff" stroke-width="2" stroke-linecap="round"/>
+    <!-- Left arm — back, balancing -->
+    <line x1="117" y1="70" x2="90" y2="85" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Right leg — bent knee (jump/landing) -->
+    <line x1="112" y1="118" x2="130" y2="142" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="130" y1="142" x2="120" y2="160" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Left leg — straight -->
+    <line x1="112" y1="118" x2="96" y2="160" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- NET -->
+  <!-- Posts -->
+  <line x1="395" y1="60" x2="395" y2="160" stroke="#484f58" stroke-width="2.5"/>
+  <line x1="415" y1="60" x2="415" y2="160" stroke="#484f58" stroke-width="2.5"/>
+  <!-- Top tape -->
+  <rect x="383" y="56" width="44" height="9" fill="#f0883e" rx="2"/>
+  <!-- Net mesh vertical lines -->
+  <line x1="388" y1="65" x2="388" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="6,5"/>
+  <line x1="396" y1="65" x2="396" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="6,5"/>
+  <line x1="405" y1="65" x2="405" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="6,5"/>
+  <line x1="414" y1="65" x2="414" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="6,5"/>
+  <!-- Net mesh horizontal lines -->
+  <line x1="383" y1="90"  x2="427" y2="90"  stroke="#30363d" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="383" y1="115" x2="427" y2="115" stroke="#30363d" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="383" y1="140" x2="427" y2="140" stroke="#30363d" stroke-width="1" stroke-dasharray="3,4"/>
+
+  <!-- BALL — parabolic via nested translate wrappers -->
+  <g class="bx">
+    <g class="by">
+      <g class="ball">
+        <circle cx="160" cy="58" r="12" fill="#f0883e" filter="url(#glow)"/>
+        <path d="M152,50 Q160,58 152,66" fill="none" stroke="white" stroke-width="1.4" opacity="0.65"/>
+        <path d="M168,50 Q160,58 168,66" fill="none" stroke="white" stroke-width="1.4" opacity="0.65"/>
+        <line x1="160" y1="46" x2="160" y2="70" stroke="white" stroke-width="0.9" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- CODE SYMBOLS — right side -->
+  <g class="c1">
+    <text x="555" y="82" font-family="'Courier New',Courier,monospace" font-size="23" font-weight="bold" fill="#7ee787" filter="url(#glow)">{ }</text>
+  </g>
+  <g class="c2">
+    <text x="610" y="112" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#58a6ff" filter="url(#glow)">&lt;/&gt;</text>
+  </g>
+  <g class="c3">
+    <text x="548" y="138" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#f0883e" filter="url(#glow)">( )</text>
+  </g>
+</svg>

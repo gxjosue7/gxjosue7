@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%A1;IFC+Campus+Araquari+%E2%80%94+3%C2%BA+Semestre;Apaixonado+por+conhecimento;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%A1;IFC+Campus+Araquari+%E2%80%94+3%C2%BA+Semestre;Apaixonado+por+esportes+e+tecnologia;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -36,19 +36,11 @@
 
 <br/>
 
-💡 &nbsp;Apaixonado por lógica, backend e sistemas &nbsp;·&nbsp; Cada projeto nasce de uma ideia real.
+⚡ &nbsp;Apaixonado por esportes e tecnologia.
 
 <br/>
 
-🔧 &nbsp;Desenvolvimento fullstack com foco em &nbsp;**JavaScript, Python, HTML e CSS**.
-
-<br/>
-
-🌱 &nbsp;Evoluindo continuamente &nbsp;—&nbsp; *"A melhor versão de mim está sendo escrita agora."*
-
-<br/>
-
-🚀 &nbsp;Transformando aprendizado em soluções reais e projetos impactantes.
+🌱 &nbsp;Sonho em criar algo que realmente faça diferença para as pessoas.
 
 <br/>
 
@@ -119,7 +111,6 @@
 | 4 | Credenciamento real (APIs gov) | 🔲 Planejado |
 | 5 | Deploy — Vercel + Railway | 🔲 Planejado |
 
-
 <br/><br/>
 
 </div>
@@ -174,7 +165,7 @@
 
 <br/>
 
-<img src="./assets/cat.svg" width="108" height="96" />
+<img src="./assets/volleyball-animation.svg" width="700" />
 
 <br/>
 
