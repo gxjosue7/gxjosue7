@@ -135,7 +135,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gxjosue7&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=6d28d9&hide_border=true" />
+<img src="./assets/contribution-graph.svg" alt="Contribution Graph" width="920" />
 
 </div>
 
