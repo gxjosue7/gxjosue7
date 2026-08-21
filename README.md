@@ -103,13 +103,13 @@
 
 <br/><br/>
 
-| Fase | Descrição | Status |
-|:----:|-----------|:------:|
-| 1 | Frontend estático completo | 🔲 Concluído |
-| 2 | Backend Node.js + banco de dados | 🔲 Concluído |
-| 3 | Integração frontend ↔ backend | 🔲 Concluído |
-| 4 | Credenciamento real (APIs gov) | 🔲 Planejado |
-| 5 | Deploy — Vercel + Railway | 🔲 Planejado |
+| Fase | Descrição                        |    Status    |
+| :--: | -------------------------------- | :----------: |
+|  1   | Frontend estático completo       | 🔲 Concluído |
+|  2   | Backend Node.js + banco de dados | 🔲 Concluído |
+|  3   | Integração frontend ↔ backend    | 🔲 Concluído |
+|  4   | Credenciamento real (APIs gov)   | 🔲 Planejado |
+|  5   | Deploy — Vercel + Railway        | 🔲 Planejado |
 
 <br/><br/>
 
@@ -161,7 +161,7 @@
 
 <br/><br/>
 
-> *"A jornada de mil commits começa com um único `git init`."*
+> _"A jornada de mil commits começa com um único `git init`."_
 
 <br/>
 
