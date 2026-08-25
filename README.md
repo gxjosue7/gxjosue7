@@ -91,18 +91,21 @@
 
 <br/><br/>
 
-<h3>💈 Nascimento Barber &nbsp;—&nbsp; Agendamento sem conflito</h3>
+<h3>💈 Nascimento Barber</h3>
 
-<p>Plataforma de agendamento para barbearia, com <strong>proteção anti-double-booking</strong> em duas camadas<br/>(transação <code>SERIALIZABLE</code> + exclusion constraint no Postgres) e autenticação segura.</p>
+<p>Projeto real, desenvolvido para a barbearia do <strong>Lucas Nascimento</strong>, meu barbeiro — construído com foco total em ficar 100% no plano free de todos os serviços, custando apenas <strong>R$ 40</strong> no total: o registro do domínio <strong>nascimentobarber.com</strong>.</p>
 
 <br/>
 
-| Área     | Stack                  |
-| :------: | ----------------------- |
-| Frontend | Next.js + Tailwind CSS |
-| CMS      | Sanity                 |
-| Banco    | PostgreSQL              |
-| Auth     | Auth.js                |
+| Área          | Stack                                 |
+| :-----------: | -------------------------------------- |
+| Frontend      | Next.js 16 + React 19 + Tailwind CSS  |
+| CMS           | Sanity                                |
+| Banco / ORM   | PostgreSQL + Prisma                   |
+| Autenticação  | NextAuth.js (Auth.js) + bcryptjs      |
+| E-mail        | Resend                                |
+| Monitoramento | Sentry                                |
+| Testes        | Vitest                                |
 
 <br/><br/>
 
