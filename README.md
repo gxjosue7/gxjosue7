@@ -101,7 +101,7 @@
 | :-----------: | -------------------------------------- |
 | Frontend      | Next.js 16 + React 19 + Tailwind CSS  |
 | CMS           | Sanity                                |
-| Banco / ORM   | PostgreSQL + Prisma                   |
+| Banco / ORM   | Neon / PostgreSQL + Prisma                   |
 | Autenticação  | NextAuth.js (Auth.js) + bcryptjs      |
 | E-mail        | Resend                                |
 | Monitoramento | Sentry                                |
