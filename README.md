@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/jos%C3%A9-gomes-xavier-70b825338">
+  <a href="https://www.linkedin.com/in/josuegomesxavier7/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
