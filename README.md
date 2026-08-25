@@ -85,31 +85,24 @@
 
 <br/>
 
-<a href="https://github.com/gxjosue7/sw2026">
-  <img src="https://img.shields.io/badge/★%20%20PROJETO%20EM%20DESTAQUE-sw2026%20%2F%20SafeWay-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<a href="https://github.com/gxjosue7/nascimento-barbearia">
+  <img src="https://img.shields.io/badge/★%20%20PROJETO%20EM%20DESTAQUE-nascimento--barbearia-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<h3>🛡️ SafeWay &nbsp;—&nbsp; Frete com Credibilidade</h3>
+<h3>💈 Nascimento Barber &nbsp;—&nbsp; Agendamento sem conflito</h3>
 
-<p>Plataforma de logística rodoviária focada em <strong>segurança</strong>, <strong>credenciamento</strong> e <strong>confiança</strong><br/>entre motoristas autônomos e empresas embarcadoras.</p>
-
-<p><em>Iniciado no <strong>Startup Weekend 2026</strong> — evoluindo para produto real.</em></p>
+<p>Plataforma de agendamento para barbearia, com <strong>proteção anti-double-booking</strong> em duas camadas<br/>(transação <code>SERIALIZABLE</code> + exclusion constraint no Postgres) e autenticação segura.</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Problema-R%24%2012%20bi%2Fano%20em%20fraudes%20no%20frete%20brasileiro-dc2626?style=flat-square&labelColor=0d1117" />
-
-<br/><br/>
-
-| Fase | Descrição                        |    Status    |
-| :--: | -------------------------------- | :----------: |
-|  1   | Frontend estático completo       | 🔲 Concluído |
-|  2   | Backend Node.js + banco de dados | 🔲 Concluído |
-|  3   | Integração frontend ↔ backend    | 🔲 Concluído |
-|  4   | Credenciamento real (APIs gov)   | 🔲 Planejado |
-|  5   | Deploy — Vercel + Railway        | 🔲 Planejado |
+| Área     | Stack                  |
+| :------: | ----------------------- |
+| Frontend | Next.js + Tailwind CSS |
+| CMS      | Sanity                 |
+| Banco    | PostgreSQL              |
+| Auth     | Auth.js                |
 
 <br/><br/>
 
