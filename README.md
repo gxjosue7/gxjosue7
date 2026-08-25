@@ -93,7 +93,7 @@
 
 <h3>💈 Nascimento Barber</h3>
 
-<p>Projeto real, desenvolvido para a barbearia do <strong>Lucas Nascimento</strong>, meu barbeiro — construído com foco total em ficar 100% no plano free de todos os serviços, custando apenas <strong>R$ 40</strong> no total: o registro do domínio <strong>nascimentobarber.com</strong>.</p>
+<p>Projeto real, desenvolvido para a barbearia do <strong>Lucas Nascimento</strong>, meu barbeiro — construído com <strong>Claude Code</strong>, com foco total em ficar 100% no plano free de todos os serviços, custando apenas <strong>R$ 40</strong> no total: o registro do domínio <strong>nascimentobarber.com</strong>.</p>
 
 <br/>
 
