@@ -157,10 +157,6 @@
 
 <br/><br/>
 
-> _"A jornada de mil commits começa com um único `git init`."_
-
-<br/>
-
 <img src="./assets/volleyball-animation.svg" width="700" />
 
 <br/>
