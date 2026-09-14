@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-🎓 &nbsp;**Instituto Federal Catarinense** &nbsp;·&nbsp; Campus Araquari &nbsp;·&nbsp; Sistemas de Informação &nbsp;·&nbsp; 3º Sem.
+🎓 &nbsp;**Instituto Federal Catarinense** &nbsp;·&nbsp; Campus Araquari &nbsp;·&nbsp; Sistemas de Informação &nbsp;·&nbsp; 4º Sem.
 
 <br/>
 
