@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nextjs,tailwind&theme=dark&perline=6" />
 
 <br/><br/>
 
@@ -71,6 +71,12 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
 </table>
